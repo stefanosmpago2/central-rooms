@@ -1,0 +1,8 @@
+# robots.txt για Central Rooms
+# https://www.centralrooms.gr/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.centralrooms.gr/sitemap.xml
